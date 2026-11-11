@@ -3,9 +3,9 @@
     "title": "Group Task Board",
     "description": "A Kanban-style task board for group projects. Tasks move through To Do, In Progress, and Done columns, each card shows a colour-coded priority, and owner names are suggested automatically as you add them.",
     "technologies": ["HTML", "CSS", "JavaScript", "localStorage"],
-    "role": "Group project (Group 4) — built the board layout, task cards, move/delete logic, and saved tasks in the browser",
+    "role": "Built the board layout, task cards, move/delete logic, and saved tasks in the browser",
     "screenshot": "Group.png",
-    "link": "https://github.com/jhayagwasil-arch/group-task-board"
+    "link": "https://jhayagwasil-arch.github.io/Group-task-board-Agwasil/"
   },
   {
     "title": "Campus Events Board",
