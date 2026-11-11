@@ -6,7 +6,7 @@
    ========================================================= */
 
 /* ---------- 1. SETTINGS: change this to YOUR GitHub username ---------- */
-const GITHUB_USERNAME = "jhayagwasii-arch";
+const GITHUB_USERNAME = "jhayagwasil-arch";
 
 /* ---------- 2. MOBILE MENU ---------- */
 const navToggle = document.getElementById("navToggle");
