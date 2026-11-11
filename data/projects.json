@@ -1,11 +1,11 @@
 [
   {
-    "title": "Grade Calculator",
-    "description": "A web app that helps students compute their weighted grade and see what score they need on the final exam.",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "role": "Solo developer: designed the interface and wrote all the code",
+    "title": "Group Task Board",
+    "description": "A Kanban-style task board for group projects. Tasks move through To Do, In Progress, and Done columns, each card shows a colour-coded priority, and owner names are suggested automatically as you add them.",
+    "technologies": ["HTML", "CSS", "JavaScript", "localStorage"],
+    "role": "Group project (Group 4) — built the board layout, task cards, move/delete logic, and saved tasks in the browser",
     "screenshot": "project1.png",
-    "link": "https://github.com/yourusername/grade-calculator"
+    "link": "https://github.com/jhayagwasil-arch/group-task-board"
   },
   {
     "title": "Campus Events Board",
@@ -13,7 +13,7 @@
     "technologies": ["Python", "Flask", "MySQL"],
     "role": "Backend developer: built the database and the event search",
     "screenshot": "project2.png",
-    "link": "https://github.com/yourusername/campus-events"
+    "link": "https://github.com/jhayagwasil-arch/campus-events"
   },
   {
     "title": "Weather Now",
@@ -21,6 +21,6 @@
     "technologies": ["JavaScript", "REST API", "JSON"],
     "role": "Solo developer: handled API calls, error messages and responsive layout",
     "screenshot": "project3.png",
-    "link": "https://github.com/yourusername/weather-now"
+    "link": "https://github.com/jhayagwasil-arch/weather-now"
   }
 ]
