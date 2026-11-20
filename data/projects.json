@@ -12,7 +12,7 @@
     "description": "The standalone, rebuilt version of my Kanban task board: drag-free column moves, colour-coded priorities, per-card owners, and tasks that persist in the browser between visits.",
     "technologies": ["HTML", "CSS", "JavaScript", "localStorage", "Responsive Design"],
     "role": "Solo developer: designed the interface and wrote all the HTML, CSS and JavaScript",
-    "screenshot": "project2.png",
+    "screenshot": "project2.jpeg",
     "link": "https://jhayagwasil-arch.github.io/grouptaskboardapp/"
   },
   {
